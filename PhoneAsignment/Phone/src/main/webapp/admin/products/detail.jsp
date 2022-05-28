@@ -1,4 +1,3 @@
-
 <%@ page import="com.phone.phone.entity.Phone" %>
 <%
     Phone product = (Phone) request.getAttribute("product");
